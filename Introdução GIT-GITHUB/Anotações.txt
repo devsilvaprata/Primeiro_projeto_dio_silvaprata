@@ -1,3 +1,11 @@
 Pesquisar mais funcionalidades GIThub
 
 Pesquisar as sintaxes do Markdown
+
+Lembrar: cd (vai para a pasta)
+         mkdir (cria uma pasta)
+         git status (verifica se tem algum arquivo modificado/staged/untracked)
+         git add * (deixa o arquivo em condições de ser upado)
+         git commit -m (comitado)
+         (se der "git status" vai aparecer que a working tree está limpa)
+         git push origin main (envia para o repositório do github)
